@@ -1,16 +1,16 @@
 ### Hi there 👋
+<h1 align="center">Hi, I am Esshaan Mahajan</h1>
+I like to make a difference by solving real-life problems and help people through my work.
+Currently pursuing Bachelors of Technology in Computer Science and Engineering.
+I am intersested in Machine learning,Deep Learning and Programming.
 
-<!--
-**Esshaan-Mahajan/Esshaan-Mahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m proficient in Python,C++,C
+- 🌱 I have good practical and theoretical understanding of ML/DL algorithms
+- 👯 I’m looking to collaborate on any interesting project
 
-Here are some ideas to get you started:
+## Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Esshaan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Connect with me on [Linkedin](https://www.linkedin.com/in/esshaan-mahajan/) <br><br>
+<img align="left" alt="Esshaan's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" /> esshaan.mahajan@gmail.com
+<br><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Esshaan-Mahajan&show_icons=true&theme=tokyonight&border_radius=10" alt="Esshaan-Mahajan" /></p>
