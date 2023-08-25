@@ -6,7 +6,7 @@ I am intersested in Machine learning,Deep Learning and Programming.
 
 - 🔭 I’m proficient in Python,C++,C
 - 🌱 I have good practical and theoretical understanding of ML/DL algorithms
-- 👯 I’m looking to collaborate on any interesting project
+- 👯 I’m looking to collaborate on an interesting project
 
 ## Contact Me
 
